@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://tk-4v7.anonymous.pro-c79-template-main.exp.direct",
+  "packagerNgrokUrl": "https://packager.tk-4v7.anonymous.pro-c79-template-main.exp.direct",
+  "ngrokPid": 8784,
+  "webpackServerPort": 19006
+}
